@@ -673,7 +673,7 @@
         },
         {
             "Name": "Tools & Weapons Crafting Bench",
-            "CraftingTime": 0.0,
+            "CraftingTime": 20.0,
             "Materials": {
                 "Ajatite": 1792.77,
                 "Bastium": 1195.19,
